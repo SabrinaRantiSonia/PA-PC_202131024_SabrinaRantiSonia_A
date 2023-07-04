@@ -14,6 +14,7 @@ Berikut ini beberapa teori yang mendukung word segmentation :
 Secara keseluruhan, word segmentation merupakan langkah mendasar yang menjadi dasar dalam berbagai tugas pemrosesan bahasa dan berkontribusi pada analisis dan pemahaman yang efektif terhadap bahasa manusia dalam aplikasi NLP.
 
 Cara menyelesaikan Project :
+
 A. Import gambar yang akan diproses
 
 B. Pada reading dan resizing 
